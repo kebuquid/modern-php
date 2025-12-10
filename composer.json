@@ -1,0 +1,9 @@
+{
+    "name": "bukwid/modern-php",
+    "description": "This is a hands-on course of Modern PHP.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

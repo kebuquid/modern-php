@@ -1,0 +1,19 @@
+{
+    "name": "bukwid/composer-playground",
+    "description": "Learning and Trying Basics of Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Bukwid\\ComposerPlayground\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bukwid",
+            "email": "kennethleonardbuquid@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.11"
+    }
+}
